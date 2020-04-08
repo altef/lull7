@@ -1,6 +1,0 @@
-<?php
-
-//$config['test'] = 'Development';
-
-
-?>

@@ -11,7 +11,6 @@ $config = [
 	// Those values will be used if the domain matches the [value] associated with that key
 	'environments' => [
 		'production' => 'domain.com', 
-		'development' => 'dev.domain.com',
 	],
 
 

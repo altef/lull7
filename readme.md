@@ -2,7 +2,7 @@
 
 Lull7 is the foundation of all my current REST APIs.  Its purposes and goals are as follows:
 
-* Adding endpoints should be trivial. An happy corollary to this being that when things go wrong you should immediately have a good idea where to look.
+* Adding endpoints should be trivial. A happy corollary to this being that when things go wrong you should immediately have a good idea where to look.
 * Provide some classes to manage common API features.  They can be extended as necessary, or ignored entirely.  Things like user auth, and even user spoofing.
 * Integrated CLI support.  You can hit endpoints from the commandline.
 * Easy support of multiple environments (Production, Development, Staging, etc.)
